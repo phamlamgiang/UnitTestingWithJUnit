@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UnitTestingWithJUnit</string>
+    <string name="clicked">Clicked</string>
+    <string name="not_clicked"> Not clicked</string>
+</resources>
